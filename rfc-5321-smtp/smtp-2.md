@@ -1,4 +1,4 @@
-# 2. The SMTP Modle
+# 2. The SMTP Model
 
 ## 2.1. Basic Structure
 
